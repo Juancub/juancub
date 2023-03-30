@@ -7,7 +7,7 @@
 
 - 👯 Collaborated on a project [Rent4Cars](https://juancub.github.io/rent4cars/)
 
-- 💬 Ask me about **React, HTML, Javascript, anything web development**
+- 💬 Ask me about **React, HTML, Javascript or anything web development**
 
 - 📫 How to reach me **juanuribe.ber@gmail.com**
 
